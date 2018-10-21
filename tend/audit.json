@@ -1,0 +1,14 @@
+{
+"name": "Tend",
+"shortDescription": "The TEND ICO smart contracts, based on OpenZepellin.",
+"logo":"Qmca7SNmzZkFFm3SjHVXrwDu8ivMvcqeeVWMDEAAcC6q4a",
+"proofs": [{
+"description": "First audit conducted on the TEND smart contracts.",
+"type": "pdf",
+"/": "QmT8HStgdcstxAGBshVgP8YK8XgSoWoq9qkxT27YAF617V"
+}, {
+"description": "Second audit, conducted after the developers reviewed the first audit.",
+"type": "pdf",
+"/": "QmUjZ1WyM1npkQstQCC9aTSy7gJFT2tH4pXFWKVQXd2JYA"
+}]
+}

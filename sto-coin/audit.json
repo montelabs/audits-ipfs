@@ -1,0 +1,10 @@
+{
+"name": "Stone Coin",
+"shortDescription": "The Stone Coin token",
+"logo":"QmbA75CJ7aKDmi7QvH12h1tfsBc62wdMf8wDRDsxmrMmQr",
+"proofs": [{
+"description": "Security audit conducted on the Stone Coin token",
+"type": "pdf",
+"/": "QmdWhJ9tDgZZLCfXx2CNCfre94o7RppYRxscBNxeQMXNkB"
+}]
+}
