@@ -1,0 +1,10 @@
+{
+"name": "Sgame",
+"shortDescription": "The Sgame token and crowdsale",
+"logo":"QmX1YTeFtQzp37oAPKujvAh3omtaWT6QJaZ1f6KjX4ePGA",
+"proofs": [{
+"description": "Security audit conducted on the Sgame token and crowdsale contracts",
+"type": "pdf",
+"/": "QmTmun97fsUR9KsuMY4qki3piHcSkpdfZxm5hEg7AEG9VU"
+}]
+}
